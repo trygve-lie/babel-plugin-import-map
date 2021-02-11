@@ -1,6 +1,6 @@
 {
   "name": "babel-plugin-import-map",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Babel plugin to apply import map mappings to ESM a head of time.",
   "main": "lib/plugin.js",
   "type": "module",
